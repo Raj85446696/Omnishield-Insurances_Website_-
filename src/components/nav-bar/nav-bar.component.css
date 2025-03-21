@@ -1,0 +1,27 @@
+.navbar-nav li {
+    margin: 0 10px;
+}
+.nav-link {
+    font-weight: 500;
+    color: #333;
+}
+.nav-link:hover {
+    color: #007bff;
+}
+.btn-signin {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    padding: 6px 15px;
+    border: none;
+    transition: 0.3s;
+}
+.btn-signin:hover {
+    background-color: #0056b3;
+}
+
+.dropdown-menu li a{
+    font-size: 15px;
+    font-weight: 700;
+}
+
